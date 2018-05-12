@@ -20,6 +20,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Francis_Thompson
 description: Illuminated manuscript of the Hound of Heaven, with initials and floral
   borders.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30730#The-Hound-of-Heaven
 gutenberg_issued: '2009-12-21'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,35 @@
+_repo: The-Hound-of-Heaven_30730
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Langdale, Stella
+    birthdate: 1880
+    deathdate: 1976
+    gutenberg_agent_id: '34779'
+    url: http://www.gutenberg.org/2009/agents/34779
+covers:
+- cover_type: archival
+  image_path: 30730-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Thompson, Francis
+    birthdate: 1859
+    deathdate: 1907
+    gutenberg_agent_id: '608'
+    url: http://www.gutenberg.org/2009/agents/608
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Thompson
+description: Illuminated manuscript of the Hound of Heaven, with initials and floral
+  borders.
+gutenberg_issued: '2009-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+title: The Hound of Heaven
+url: http://www.gutenberg.org/ebooks/30730
